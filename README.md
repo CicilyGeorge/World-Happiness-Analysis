@@ -111,7 +111,6 @@ The importance of Economy is also strongly positively correlated with those of F
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - UWA Data Science
 - Data source: https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv
-- Data source: Gmap – geography of the region and country
 - Institute of Health Metrics and Evaluation (IHME), Global Burden of Disease (GBD): http://ghdx.healthdata.org/gbd-results-tool
 - Rest Countries API: https://restcountries.eu/rest/v2/
 
